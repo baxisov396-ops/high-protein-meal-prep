@@ -1,0 +1,19 @@
+HIGH-PROTEIN MEAL PREP BLUEPRINT WEBSITE
+
+Files:
+- index.html: product sales page
+- legal-notice.html
+- privacy-policy.html
+- terms.html
+- refund-policy.html
+
+MANDATORY BEFORE PUBLICATION:
+1. Replace REPLACE_WITH_SUPPORT_EMAIL in index.html with the actual customer-support email.
+2. Replace every [ENTER CUSTOMER SUPPORT EMAIL] in legal pages.
+3. Verify and enter the complete postal address exactly as appropriate for public disclosure in legal-notice.html. The address was intentionally left as a placeholder rather than guessing from a screenshot.
+4. Confirm whether hosting provider analytics/cookies or tracking pixels are enabled and update privacy-policy.html accordingly.
+5. Check the refund/withdrawal wording against the actual Digistore24 checkout terms for product 760430.
+6. Obtain appropriate legal review for Azerbaijan and any markets targeted. These are starter templates, not legal advice or proof of legal compliance.
+7. Confirm Digistore24 review requirements and any required trust badge/footer code before submitting for approval.
+
+Checkout button currently points to https://www.checkout-ds24.com/product/760430
